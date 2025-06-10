@@ -1,9 +1,9 @@
-# This Website was crafted by - @chaniru.lk - Instagram
+# This Website was crafted by - @shubhamgupta_2455___ - Instagram
 ![Screenshot](./src/components/assets/screenshot.png)
 
 # About the AUTHOR
 
-<h1>FOLLOW ME ON INSTAGRAM - @chaniru.lk</h1>
+<h1>FOLLOW ME ON INSTAGRAM - @shubhamgupta_2455___ </h1>
 
 For more designs and inspiring website development /
 awwwards remakes :-)
