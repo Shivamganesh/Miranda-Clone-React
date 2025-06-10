@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Miranda-Clone-React/static/css/main.4a38a6b5.css",
+    "main.js": "/Miranda-Clone-React/static/js/main.283ddfae.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Miranda-Clone-React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/avat6.jpeg": "/Miranda-Clone-React/static/media/avat6.a200f48473f15627ece5.jpeg",
+    "static/media/stamp.png": "/Miranda-Clone-React/static/media/stamp.18834e79d977cc7b11b6.png",
+    "static/media/vector5.jpeg": "/Miranda-Clone-React/static/media/vector5.f8a179b6a9530b1583e3.jpeg",
+    "static/media/avat4.jpeg": "/Miranda-Clone-React/static/media/avat4.443ad3f2d318dad897e5.jpeg",
+    "static/media/vector3.jpeg": "/Miranda-Clone-React/static/media/vector3.bce120d7d3af7fb81dc5.jpeg",
+    "static/media/vector1.jpeg": "/Miranda-Clone-React/static/media/vector1.277ba022aed07bddeca4.jpeg",
+    "static/media/avat1.jpeg": "/Miranda-Clone-React/static/media/avat1.dac277a4366d26870971.jpeg",
+    "static/media/avat2.jpeg": "/Miranda-Clone-React/static/media/avat2.da1cc8643c508103026f.jpeg",
+    "static/media/vector6.jpeg": "/Miranda-Clone-React/static/media/vector6.bdcc850e424bea53fc3e.jpeg",
+    "static/media/avat5.jpeg": "/Miranda-Clone-React/static/media/avat5.1541b8a5574d8f20183b.jpeg",
+    "static/media/vector2.jpeg": "/Miranda-Clone-React/static/media/vector2.e638ca4a74e225f6f8dd.jpeg",
+    "static/media/avat3.jpeg": "/Miranda-Clone-React/static/media/avat3.aabd449aee2725372e90.jpeg",
+    "static/media/ITC Garamond Book Narrow.woff2": "/Miranda-Clone-React/static/media/ITC Garamond Book Narrow.83fa40297dacc4353940.woff2",
+    "static/media/ITC Garamond Light Condensed.woff2": "/Miranda-Clone-React/static/media/ITC Garamond Light Condensed.5843c0ade0073990e1a0.woff2",
+    "static/media/Abaddon.woff2": "/Miranda-Clone-React/static/media/Abaddon.d8777128baf52ef41f9c.woff2",
+    "static/media/SatisficeDemo-w1EGw.woff2": "/Miranda-Clone-React/static/media/SatisficeDemo-w1EGw.bdad2dc859e56255ac31.woff2",
+    "index.html": "/Miranda-Clone-React/index.html",
+    "main.4a38a6b5.css.map": "/Miranda-Clone-React/static/css/main.4a38a6b5.css.map",
+    "main.283ddfae.js.map": "/Miranda-Clone-React/static/js/main.283ddfae.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Miranda-Clone-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a38a6b5.css",
+    "static/js/main.283ddfae.js"
+  ]
+}
